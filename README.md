@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rychu-Pawel
-- 👀 I’m interested in jogging 🐌, chill-out 🌴
-- 🌱 I’m currently learning Blazor, PWA
+- 👀 I’m interested in diving 🤿, jogging 🐌 and chilling-out 🌴
+- 🌱 I’m currently learning ElectronJS
 - 💞️ I’m looking to collaborate on game changers
 - 📫 How to reach me: https://pawelrychlicki.pl
 
